@@ -1,0 +1,29 @@
+body{
+    background:linear-gradient(90deg, #edc0bf 0, #c4caef 58%);
+}
+img{
+    margin:6.5%;
+    width: 30%;
+    border: 10px double black;
+    
+}
+img:hover{
+    border-radius:10%;
+    transition:0.2s;    
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Rubik Beastly,cursive;
+    font-weight: normal;
+    letter-spacing: 10px;    
+}
+a{
+    background:linear-gradient(90deg, #edc0bf 0, #c4caef 58%);
+    text-decoration: none;
+    background-color: darkblue;
+    border-radius:5px ;
+    padding:8px;
+    border:2px solid black
+    
+}
